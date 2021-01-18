@@ -39,6 +39,10 @@ A React Native and ReactJS app, build on Rocketseat course, Semana Omnistack 9, 
 
 `/backend$ npm start`
 
+or
+
+`/backend$ nodemon src/server.js`
+
 ---
 
 **Frontend**
