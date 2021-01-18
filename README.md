@@ -26,6 +26,7 @@ A React Native and ReactJS app, build on Rocketseat course, Semana Omnistack 9, 
 
 `MONGO_URI=CONNECT_APPLICATION_STRING`
 
+___
 
 **Finally to run the applications you need to run the commands below:**
 
