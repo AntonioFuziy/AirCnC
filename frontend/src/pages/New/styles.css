@@ -1,0 +1,55 @@
+.new-spot{
+  border-radius: 2px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-input{
+  width: 100%;
+}
+
+.new-spot input{
+  margin-top: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 30px;
+  width: 100%;
+  border-radius: 2px;
+}
+
+.input-text{
+  height: 42px;
+  padding: 10px;
+}
+
+.new-spot label{
+  font-size: 16px;
+  color: #444;
+  font-weight: bold;
+}
+
+.file{
+  text-align: center;
+  height: 120px;
+}
+
+
+.new-spot button{
+  font-size: 16px;
+  margin-top: 50px;
+  background-color: #f05a5b;
+  color: #fff;
+  border-radius: 2px;
+  border: 0;
+  font-weight: bold;
+  width: 100%;
+  height: 42px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.new-spot button:hover{
+  background-color: #f05a5ab4;
+}
