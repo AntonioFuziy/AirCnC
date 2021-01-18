@@ -3,15 +3,11 @@ A React Native and ReactJS app, build on Rocketseat course, Semana Omnistack 9, 
 
 **To install and test it just use the commands below:**
 
----
-
 ### Installing node_modules on frontend
 
 **Frontend**
 
 `/frontend$ npm install`
-
----
 
 ### Installing node_modules mobile
 
@@ -19,7 +15,6 @@ A React Native and ReactJS app, build on Rocketseat course, Semana Omnistack 9, 
 
 `/mobile$ npm install`
 
----
 
 ### Installing node_modules on backend
 
@@ -31,7 +26,6 @@ A React Native and ReactJS app, build on Rocketseat course, Semana Omnistack 9, 
 
 `MONGO_URI=CONNECT_APPLICATION_STRING`
 
----
 
 **Finally to run the applications you need to run the commands below:**
 
@@ -43,13 +37,11 @@ or
 
 `/backend$ nodemon src/server.js`
 
----
 
 **Frontend**
 
 `/frontend$ npm start`
 
----
 
 **Mobile**
 
