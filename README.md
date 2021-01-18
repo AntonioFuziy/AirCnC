@@ -3,27 +3,27 @@ A React Native and ReactJS app, build on Rocketseat course, Semana Omnistack 9, 
 
 **To install and test it just use the commands below:**
 
-___
+---
 
 ### Installing node_modules on frontend
 
-**Backend**
+**Frontend**
 
 `/frontend$ npm install`
 
-___
+---
 
 ### Installing node_modules mobile
 
-**Frontend**
+**Mobile**
 
 `/mobile$ npm install`
 
-___
+---
 
 ### Installing node_modules on backend
 
-**Mobile**
+**Backend**
 
 `/backend$ npm install`
 
@@ -31,7 +31,7 @@ ___
 
 `MONGO_URI=CONNECT_APPLICATION_STRING`
 
-___
+---
 
 **Finally to run the applications you need to run the commands below:**
 
@@ -39,13 +39,13 @@ ___
 
 `/backend$ npm start`
 
-___
+---
 
 **Frontend**
 
 `/frontend$ npm start`
 
-___
+---
 
 **Mobile**
 
