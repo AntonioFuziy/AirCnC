@@ -13,7 +13,7 @@ const io = socketio(server);
 
 //=======================================
 //Database connection
-mongoose.connect("mongodb+srv://omnistack:12345@cluster0.1y9ap.mongodb.net/omnistack9?retryWrites=true&w=majority",{
+mongoose.connect("CONNECT_APPLICATION_STRING",{
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
